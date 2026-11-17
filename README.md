@@ -33,16 +33,39 @@ This portfolio documents my hands-on cybersecurity projects, technical investiga
 ## Featured Projects
 
 ### 1. Data Encryption and Decryption Simulation
+Practical implementation of AES encryption and decryption using OpenSSL on Kali Linux.
 
-Practical implementation of AES-256 and RSA encryption and decryption using OpenSSL on Kali Linux.
-
-**Focus:** Data confidentiality, encryption, decryption, key management and file integrity verification.
+**Focus:** Data confidentiality, encryption, decryption and file integrity verification.
 
 ### 2. Wireless Network Security Analysis
+Comparative investigation of WEP, WPA, WPA2 and WPA3 wireless security protocols.
 
-Comparative investigation of WEP, WPA, WPA2 and WPA3 wireless security protocols, including practical verification of wireless authentication and encryption support.
+**Focus:** Wireless authentication, encryption standards and security recommendations.
 
-**Focus:** Wireless security, encryption standards and security protocol comparison.
+### 3. Password Cracking Simulation
+Practical simulation and analysis of weak password cracking techniques.
+
+**Focus:** Password security, hash analysis and password-strength recommendations.
+
+### 4. Secure Network Architecture
+Design and simulation of a secure network using network simulation tools.
+
+**Focus:** Network segmentation, security controls, simulated attacks and defensive measures.
+
+### 5. DarkHole – Penetration Testing
+Security assessment of the DarkHole vulnerable virtual machine.
+
+**Focus:** Vulnerability identification, exploitation and security analysis.
+
+### 6. Internal Network Penetration Test
+Assessment of internal network security and potential weaknesses.
+
+**Focus:** Network reconnaissance, vulnerability assessment and security recommendations.
+
+### 7. Windows Event Log Analysis with Sysmon
+Analysis of Windows security events using Sysmon.
+
+**Focus:** Event monitoring, process activity, security investigation and threat detection.
 
 ## Project Documentation
 
